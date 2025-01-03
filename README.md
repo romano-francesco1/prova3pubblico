@@ -1,3 +1,2 @@
 # prova3pubblico
-prova repository pubblico. in questa sezione
-c'è del testo a capo.
+prova repository pubblico. prova di testo indicazioni del progetto. 
